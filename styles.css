@@ -33,6 +33,7 @@ article.intro {
 p.funParagraph {
     color: green;
     background-color: cornsilk;
+    margin: 80xp;
 }
 
 #mainHeading {
@@ -63,4 +64,5 @@ p.funParagraph {
 #welcomeMsg {
     font-size: 30px;
     color: blueviolet
+    margin: 80px;
 }
