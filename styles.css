@@ -29,11 +29,20 @@ p.funParagraph {
     color: green;
 }
 
-#mainheading {
+#mainHeading {
     text-align: center;
     color: red;
+    font-size: 60px;
 }
 
 #foot {
     color: maroon;
+}
+
+#front {
+    font-size: medium
+}
+
+#back{
+    font-size: medium
 }
