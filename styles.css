@@ -1,9 +1,9 @@
 /* Write your CSS here! */
 body {
     text-align: center;
-    margin-top: 80px;
-    margin-right: 80px;
-    margin-left: 80px;
+    margin-top: 8px;
+    margin-right: 8px;
+    margin-left: 8px;
   }
 
 
@@ -12,20 +12,24 @@ head {
     text-align: center;
 }
 
-header {
-    text-align: center;
-    color: blueviolet
-}
-
-
 footer {
+    color: navy
     text-align: center;
 }
 
 h1 {
-    padding: 60px;
+    padding: 40px;
 }
 
 article.intro {
-    color: teal
+    color: blueviolet
+}
+
+p.funParagraph {
+    color: green
+}
+
+#mainheader {
+    text-align: center;
+    color: red
 }
