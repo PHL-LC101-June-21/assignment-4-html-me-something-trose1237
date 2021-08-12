@@ -13,7 +13,7 @@ head {
 }
 
 footer {
-    color: navy
+    color: navy;
     text-align: center;
 }
 
@@ -22,14 +22,18 @@ h1 {
 }
 
 article.intro {
-    color: blueviolet
+    color: blueviolet;
 }
 
 p.funParagraph {
-    color: green
+    color: green;
 }
 
-#mainheader {
+#mainheading {
     text-align: center;
-    color: red
+    color: red;
+}
+
+#foot {
+    color: maroon;
 }
