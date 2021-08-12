@@ -5,9 +5,12 @@ body {
     margin-right: 8px;
     margin-left: 8px;
     background-color: mediumturquoise;
+    border-style: double;
   }
 
-
+article.intro {
+    background-color: tomato
+}
 
 head {
     text-align: center;
@@ -28,16 +31,19 @@ article.intro {
 
 p.funParagraph {
     color: green;
+    background-color: cornsilk;
 }
 
 #mainHeading {
     text-align: center;
     color: red;
     font-size: 60px;
+    border-style: double;
 }
 
 #foot {
     color: maroon;
+    border-style: double;
 }
 
 #front {
