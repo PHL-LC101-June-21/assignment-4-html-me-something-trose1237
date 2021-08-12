@@ -10,7 +10,7 @@ body {
   }
 
 article.intro {
-    background-color: tomato
+    background-color: tomato;
 }
 
 head {
@@ -33,7 +33,8 @@ article.intro {
 p.funParagraph {
     color: green;
     background-color: cornsilk;
-    margin: 80xp;
+    margin-left: 80px;
+    margin-right:80px;
 }
 
 #mainHeading {
@@ -63,6 +64,7 @@ p.funParagraph {
 
 #welcomeMsg {
     font-size: 30px;
-    color: blueviolet
-    margin: 80px;
+    color: blueviolet;
+    margin-left: 80px;
+    margin-right: 80px;
 }
