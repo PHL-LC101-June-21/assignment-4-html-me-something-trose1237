@@ -1,1 +1,75 @@
 /* Write your CSS here! */
+body {
+    text-align: center;
+    margin: 8px;
+    background-color: mediumturquoise;
+    border-style: double;
+    display: block;
+  }
+
+article.intro {
+    background-color: tomato;
+}
+
+head {
+    text-align: center;
+}
+
+footer {
+    color: navy;
+    text-align: center;
+}
+
+h1 {
+    padding: 40px;
+}
+
+article.intro {
+    color: blueviolet;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.funParagraph {
+    color: green;
+    background-color: cornsilk;
+    margin-left: 100px;
+    margin-right:100px;
+}
+
+#mainHeading {
+    text-align: center;
+    color: red;
+    font-size: 60px;
+    border-style: double;
+}
+
+#foot {
+    color: maroon;
+    border-style: double;
+}
+
+#front {
+    font-size: 30px;
+}
+
+#back {
+    font-size: 30px;
+}
+
+#storyHeader {
+    font-size: 30px;
+    color: red;
+}
+
+#welcomeMsg {
+    font-size: 30px;
+    color: blueviolet;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#testP {
+    margin-left: 100px;
+    margin-right: 100px;
+}
